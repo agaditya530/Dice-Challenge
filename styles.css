@@ -1,0 +1,30 @@
+body{
+  background-color: #393E46;
+  text-align: center;
+}
+footer{
+  color: #fff;
+}
+h1{
+  font-size: 8rem;
+  font-family: "Lobster";
+  color: #4ECCA3;
+  text-shadow: 5px 0 #232931;
+  margin: 40px auto;
+}
+img{
+  width: 60%;
+}
+.container{
+  color: #4ECCA3;
+  font-size: 2rem;
+  font-family: "Indie Flower";
+  margin: 0% auto 5%;
+
+}
+.player1{
+  display: inline-block;
+}
+.player2{
+  display: inline-block;
+}
